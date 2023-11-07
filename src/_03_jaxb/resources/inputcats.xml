@@ -3,14 +3,10 @@
     <cat id="1">
         <name>Barsik</name>
         <age>2</age>
-        <box>
-            <thing>Th1</thing>
-            <THING>t2</THING>
-        </box>
     </cat>
     <cat id="2">
         <name>Tuzik</name>
-        <age>10</age>
+        <age>3</age>
     </cat>
 
 </cats>
